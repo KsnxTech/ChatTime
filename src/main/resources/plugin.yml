@@ -1,6 +1,6 @@
 name: ChatTime
 version: '1.0'
-main: ru.yourname.chattime.ChatTimePlugin
+main: ru.ksnxtech.chattime.ChatTimePlugin
 api-version: '1.18'
-authors: [ Ksnx ]
+authors: [ Ksenx ]
 description: Добавляет время отправки перед сообщением в чате.

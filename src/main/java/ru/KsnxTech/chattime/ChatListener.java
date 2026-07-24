@@ -1,4 +1,4 @@
-package ru.yourname.chattime;
+package git.KsnxTech.chattime;
 
 import io.papermc.paper.event.player.AsyncChatEvent;
 import net.kyori.adventure.text.Component;
